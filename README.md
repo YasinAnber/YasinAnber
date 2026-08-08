@@ -29,8 +29,8 @@ Kariyerimde; **endüstriyel otomasyon, gömülü sistemler, veri analizi, yapay 
 
 ## 🛠️ Teknik Yetkinlikler
 
-| Kategori | Teknolojiler & Odak Alanları |
-| :--- | :--- |
+| **Kategori** | **Teknolojiler & Odak Alanları** |
+|---|---|
 | **💻 Yazılım Geliştirme** | **Diller:** C/C++, Java, Python, JavaScript <br> **Web:** React.js, .NET, HTML/CSS <br> **Veritabanı:** MySQL, SQL <br> **Araçlar:** Git, GitHub, UML |
 | **📊 Veri Analizi & Yapay Zeka** | **Kütüphaneler:** NumPy, Pandas, Scikit-learn, PyTorch <br> **Alanlar:** Veri ön işleme, veri analizi, model eğitimi, makine öğrenmesi |
 | **⚙️ Endüstriyel Otomasyon** | **PLC & Kontrol:** PLC tabanlı sistemler, HIPASE <br> **Sistemler:** Otomasyon altyapıları, kontrol süreçleri, donanım-yazılım entegrasyonu |
