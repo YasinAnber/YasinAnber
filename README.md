@@ -40,9 +40,9 @@ Kariyerimde; **endüstriyel otomasyon, gömülü sistemler, veri analizi, yapay 
 
 ---
 
-## 🚀 Öne Çıkan Projeler
+## 🚀 Öne Çıkan Proje
 
-### ✈️ TUSAŞ LIFT UP: Hava Araçları İçin Ağırlık Merkezi Tespiti ve Otonom Dengeleme Sistemi — CODENGE
+###  TUSAŞ LIFT UP: Hava Araçları İçin Ağırlık Merkezi Tespiti ve Otonom Dengeleme Sistemi — CODENGE
 
 > 🔬 *TÜBİTAK 2209-B Destekli* | 🥇 *TUSAŞ LIFT UP Top 10* | 🏆 *Genç Beyinler Yeni Fikirler Top 5* | 🎓 *EMO BPS Proje Sergisi*
 
@@ -79,7 +79,7 @@ Geliştirme sürecinde sensör verilerinin güvenilir şekilde işlenmesi, mekan
 *   **Sensör & İşleme:** `Load Cell` · `HX711` · `Low-Pass Filtering` · `CG Hesaplama`
 
 ---
-
+##  Diğer Projeler
 ###  Physics-Informed Deep Learning — Dynamic Balance Prediction
 Sensör verilerinden hava aracının dinamik dengesini tahmin etmek amacıyla geliştirilen deep learning projesi. Model mimarisinde **1D CNN, LSTM ve özel geliştirilmiş Physics-Informed Attention** kullanılarak sensör gürültüsünün azaltılması ve modelin mekanik sistemin fiziksel hareket sınırlarına uygun tahminler üretmesi amaçlandı. Modelin fiziksel kısıtları dikkate alması için Attention mekanizmasına özel bir **Physical Penalty Matrix** ve eğitim sürecine **speed-limit loss** fonksiyonu eklendi.
 
