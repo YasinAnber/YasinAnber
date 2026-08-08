@@ -53,12 +53,12 @@ Hava araçlarının kalkış öncesi ağırlık merkezini (CG) gerçek zamanlı 
 #### 🔧 Karşılaşılan Zorluklar ve Uygulanan Çözümler
 Geliştirme sürecinde sensör verilerinin güvenilir şekilde işlenmesi, mekanik sistemin hassas konumlandırılması ve kontrol mimarisinin mümkün olduğunca sade tutulması temel mühendislik problemleri olarak ele alındı.
 
-*   ** Sensör Gürültüsü ve Veri Kararsızlığı:** 3D baskı ile oluşturulan gövdeye monte edilen köşe yük hücrelerinden (strain-gauge load cells) ve HX711 amplifikatörlerinden alınan ham ölçümlerde titreşim ve gürültü dalgalanmaları gözlemlendi.
-    *   *Çözüm:* Dalgalanmaları azaltmak amacıyla **low-pass filtreleme** yaklaşımı uygulandı. Bu sayede ölçümler kararlı hale getirildi.
-*   ** Mekanik Karmaşıklık ve Otonom Konumlandırma:** Tasarımın ilk aşamalarında çoklu karşı ağırlık yaklaşımlarının mekanik/kontrol yapısını karmaşıklaştıracağı görüldü.
-    *   *Çözüm:* Arduino tabanlı kontrol sistemi, çift eksenli step motorlar ve **lead-screw (vida mili)** mekanizması kullanılarak hareketli karşı ağırlığın X-Y düzleminde kontrollü şekilde konumlandırılması sağlandı.
-*   ** Manuel Motor Kontrolü ve Test Altyapısı:** Test süreçlerini kolaylaştırmak amacıyla sisteme **manuel motor kontrol fonksiyonu** eklendi. Otomatik algoritma devreye alınmadan önce X ve Y eksenlerindeki motorlar ayrı ayrı kontrol edilerek mekanik sınırlar test edildi.
-*   ** Gerçek Zamanlı Sistem Takibi:** Python ve Tkinter tabanlı masaüstü arayüzü kullanılarak sensör verileri gerçek zamanlı işlendi ve ağırlık merkezi grafiksel olarak takip edildi.
+* **Sensör Gürültüsü ve Veri Kararsızlığı:** 3D baskı ile oluşturulan gövdeye monte edilen köşe yük hücrelerinden (strain-gauge load cells) ve HX711 amplifikatörlerinden alınan ham ölçümlerde titreşim ve gürültü dalgalanmaları gözlemlendi.
+  * *Çözüm:* Dalgalanmaları azaltmak amacıyla **low-pass filtreleme** yaklaşımı uygulandı. Bu sayede ölçümler kararlı hale getirildi.
+* **Mekanik Karmaşıklık ve Otonom Konumlandırma:** Tasarımın ilk aşamalarında çoklu karşı ağırlık yaklaşımlarının mekanik/kontrol yapısını karmaşıklaştıracağı görüldü.
+  * *Çözüm:* Arduino tabanlı kontrol sistemi, çift eksenli step motorlar ve **lead-screw (vida mili)** mekanizması kullanılarak hareketli karşı ağırlığın X-Y düzleminde kontrollü şekilde konumlandırılması sağlandı.
+* **Manuel Motor Kontrolü ve Test Altyapısı:** Test süreçlerini kolaylaştırmak amacıyla sisteme **manuel motor kontrol fonksiyonu** eklendi. Otomatik algoritma devreye alınmadan önce X ve Y eksenlerindeki motorlar ayrı ayrı kontrol edilerek mekanik sınırlar test edildi.
+* **Gerçek Zamanlı Sistem Takibi:** Python ve Tkinter tabanlı masaüstü arayüzü kullanılarak sensör verileri gerçek zamanlı işlendi ve ağırlık merkezi grafiksel olarak takip edildi.
 
 #### 🧠 Kritik Mühendislik Kararları
 > **⚙️ Karar 1 — Tekil ve Odaklanmış Mekanik Mimari**
