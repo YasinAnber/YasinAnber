@@ -48,7 +48,7 @@ Kariyerimde; **endüstriyel otomasyon, gömülü sistemler, veri analizi, yapay 
 
 Hava araçlarının kalkış öncesi ağırlık merkezini (CG) gerçek zamanlı olarak tespit etmek ve hedef konuma taşımak amacıyla geliştirdiğimiz **donanım-yazılım ve mekanik entegrasyonlu otonom dengeleme platformudur**. Sistem; **Load Cell ve HX711** tabanlı sensörlerden alınan ağırlık verilerini işleyerek hava aracının X-Y düzlemindeki ağırlık merkezini hesaplamakta ve hareketli bir mekanik karşı ağırlık sistemi aracılığıyla dengeleme işlemini gerçekleştirmektedir.
 
-🌐 **[GitHub Repository](https://github.com/YasinAnber/codenge_Project)** | 🔗 **[Canlı Sistem & Web Sitesini İncele](https://codenge.vercel.app)**
+🔗 **[GitHub Repository](https://github.com/YasinAnber/codenge_Project)** | 🌐 **[Canlı Sistem & Web Sitesini İncele](https://codenge.vercel.app)**
 
 #### 🔧 Karşılaşılan Zorluklar ve Uygulanan Çözümler
 Geliştirme sürecinde sensör verilerinin güvenilir şekilde işlenmesi, mekanik sistemin hassas konumlandırılması ve kontrol mimarisinin mümkün olduğunca sade tutulması temel mühendislik problemleri olarak ele alındı.
@@ -80,21 +80,21 @@ Geliştirme sürecinde sensör verilerinin güvenilir şekilde işlenmesi, mekan
 
 ---
 
-### 🧠 Physics-Informed Deep Learning — Dynamic Balance Prediction
+###  Physics-Informed Deep Learning — Dynamic Balance Prediction
 Sensör verilerinden hava aracının dinamik dengesini tahmin etmek amacıyla geliştirilen deep learning projesi. Model mimarisinde **1D CNN, LSTM ve özel geliştirilmiş Physics-Informed Attention** kullanılarak sensör gürültüsünün azaltılması ve modelin mekanik sistemin fiziksel hareket sınırlarına uygun tahminler üretmesi amaçlandı. Modelin fiziksel kısıtları dikkate alması için Attention mekanizmasına özel bir **Physical Penalty Matrix** ve eğitim sürecine **speed-limit loss** fonksiyonu eklendi.
 
 `Python` · `PyTorch` · `CNN` · `LSTM` · `Attention` · `Deep Learning`
 
 🔗 **[GitHub Repository](https://github.com/YasinAnber/Deep_Learning-project)** | 📝 **[Medium Yazısı](https://medium.com/@ysnemrefb02/teaching-physics-to-ai-dynamic-balance-prediction-with-lstm-and-physics-informed-attention-86c4d4a1ce18)**
 
-### 📊 Bank Marketing Prediction
+###  Bank Marketing Prediction
 Bankacılık müşterilerinin kampanya sonucunu tahmin etmek amacıyla veri ön işleme, özellik seçimi, dengesiz veri yönetimi ve makine öğrenmesi modellerinin kullanıldığı bir veri analizi projesi.
 
 `Python` · `Pandas` · `Scikit-learn` · `Machine Learning`
 
 🔗 **[GitHub Repository](https://github.com/YasinAnber/Machine_Learning_Project)** | 🌐 **[Canlı Web Uygulaması](https://bank-marketing-ml-ysn.streamlit.app/)**
 
-### 💻 Veritabanı Entegreli Araç Kiralama Sistemi
+###  Veritabanı Entegreli Araç Kiralama Sistemi
 Java ve MySQL kullanılarak geliştirilen, kullanıcı, araç ve kiralama işlemlerini yöneten veritabanı entegreli bir uygulama.
 
 `Java` · `MySQL` · `SQL`
