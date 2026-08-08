@@ -13,13 +13,17 @@
 
 ## 👨‍💻 Hakkımda
 
-Bilgisayar mühendisliği eğitimim boyunca yazılım geliştirme, veri analizi, gömülü sistemler ve endüstriyel otomasyon alanlarında kendimi geliştirdim. Özellikle **yazılım ile fiziksel sistemleri bir araya getiren**, sensörlerden veri toplayan, bu verileri işleyen ve elde edilen sonuçlara göre sistemin davranışını kontrol eden uygulamalar geliştirmeye odaklanıyorum. Yazılımı fiziksel dünyayla buluşturan sistemler geliştirmekten; sensör verilerini işlemekten, donanım ve yazılım bileşenlerini entegre etmekten ve gerçek dünya problemlerine otomatik ve veriye dayalı çözümler üretmekten keyif alıyorum.
+Bilgisayar mühendisliği eğitimim boyunca yazılım geliştirme, veri analizi, gömülü sistemler ve endüstriyel otomasyon alanlarında kendimi geliştirdim. Özellikle **yazılım ile fiziksel sistemleri bir araya getiren**, sensörlerden veri toplayan, bu verileri işleyen ve elde edilen sonuçlara göre sistemin davranışını kontrol eden uygulamalar geliştirmeye odaklanıyorum.
 
-*   **Endüstriyel Otomasyon:** Bu alandaki deneyimimi Andritz Hydro'da gerçekleştirdiğim otomasyon mühendisliği stajında kazandım. Bu süreçte endüstriyel otomasyon sistemleri ve **PLC tabanlı HIPASE altyapıları** üzerine çalışarak otomasyon süreçlerini ve endüstriyel kontrol sistemlerini uygulamalı olarak deneyimledim.
-*   **Kurumsal Yazılım:** Yazılım geliştirme tarafında ise Limak Teknoloji'deki stajım sırasında kurumsal yazılım projelerinde **React.js ile frontend** ve **.NET ile backend** geliştirme süreçlerine katkı sağladım. Bu deneyim, yazılım geliştirme süreçlerine ve farklı katmanların birlikte çalışmasına yönelik pratik tecrübe kazanmamı sağladı.
-*   **Siber-Fiziksel Sistemler:** Donanım, sensörler ve yazılımın birleştiği en kapsamlı çalışmalarımdan biri **TUSAŞ LIFT UP kapsamında geliştirdiğimiz CODENGE projesidir**. Load cell ve HX711 tabanlı sensör sistemi kullanarak hava araçlarının ağırlık merkezini gerçek zamanlı olarak ölçen ve hareketli mekanik karşı ağırlık sistemiyle otonom dengeleme gerçekleştiren bir sistem geliştirdim. Projemiz 350'den fazla proje arasından **TUSAŞ LIFT UP'ta ilk 10'a**, Genç Beyinler Yeni Fikirler Yarışması'nda ise **ilk 5'e** girerek TÜBİTAK 2209-B kapsamında desteklendi.
+**Endüstriyel otomasyon** alanındaki deneyimimi Andritz Hydro'da gerçekleştirdiğim otomasyon mühendisliği stajında kazandım. Bu süreçte endüstriyel otomasyon sistemleri ve **PLC tabanlı HIPASE altyapıları** üzerine çalışarak otomasyon süreçlerini ve endüstriyel kontrol sistemlerini uygulamalı olarak deneyimledim.
 
-Teknik çalışmalarımda **C/C++, Java, Python ve SQL** başta olmak üzere farklı programlama dillerinden yararlanıyor; **NumPy, Pandas, Scikit-learn ve PyTorch** ile veri ve makine öğrenmesi çalışmalarını, **Arduino ve STM32** gibi platformlarla ise gömülü sistem ve sensör uygulamalarını geliştiriyorum. Kariyerimde; **endüstriyel otomasyon, gömülü sistemler, veri analizi, yapay zeka ve otonom sistemlerin kesişiminde** çalışarak gerçek dünya problemlerine teknik ve yenilikçi çözümler geliştirmeyi hedefliyorum.
+**Yazılım geliştirme** tarafında ise Limak Teknoloji'deki stajım sırasında kurumsal yazılım projelerinde **React.js ile frontend** ve **.NET ile backend** geliştirme süreçlerine katkı sağladım. Bu deneyim, yazılım geliştirme süreçlerine ve farklı katmanların birlikte çalışmasına yönelik pratik tecrübe kazanmamı sağladı.
+
+Donanım, sensörler ve yazılımın birleştiği en kapsamlı çalışmalarımdan biri **TUSAŞ LIFT UP kapsamında geliştirdiğimiz CODENGE projesidir**. Load cell ve HX711 tabanlı sensör sistemi kullanarak hava araçlarının ağırlık merkezini gerçek zamanlı olarak ölçen ve hareketli mekanik karşı ağırlık sistemiyle otonom dengeleme gerçekleştiren bir sistem geliştirdim. Projemiz 350'den fazla proje arasından **TUSAŞ LIFT UP'ta ilk 10'a**, Genç Beyinler Yeni Fikirler Yarışması'nda ise **ilk 5'e** girerek TÜBİTAK 2209-B kapsamında desteklendi.
+
+Teknik çalışmalarımda **C/C++, Java, Python ve SQL** başta olmak üzere farklı programlama dillerinden yararlanıyor; **NumPy, Pandas, Scikit-learn ve PyTorch** ile veri ve makine öğrenmesi çalışmalarını, **Arduino ve STM32** gibi platformlarla ise gömülü sistem ve sensör uygulamalarını geliştiriyorum.
+
+Kariyerimde; **endüstriyel otomasyon, gömülü sistemler, veri analizi, yapay zeka ve otonom sistemlerin kesişiminde** çalışarak gerçek dünya problemlerine teknik ve yenilikçi çözümler geliştirmeyi hedefliyorum.
 
 ---
 
