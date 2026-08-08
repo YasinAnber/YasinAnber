@@ -1,9 +1,7 @@
 <div align="center">
   <h1>Merhaba, ben Yasin Anber 👋</h1>
   <h3>Bilgisayar Mühendisi | Otomasyon | Gömülü Sistemler | Veri & Yapay Zeka</h3>
-  <p><b>TED Üniversitesi</b> Bilgisayar Mühendisliği · <b>Uygulamalı Veri Analizi</b> Yan Dalı</p>
-  
-  <p>⚙️ Endüstriyel Otomasyon · 🤖 Otonom Sistemler · 📊 Veri & AI</p>
+  <p><b>TED Üniversitesi</b> Bilgisayar Mühendisliği · <b>Uygulamalı Veri Analizi</b> Ek Dalı</p>
   <p>✈️ Öne Çıkan Proje: <b>CODENGE — TUSAŞ LIFT UP Top 10</b></p>
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasinanber)
