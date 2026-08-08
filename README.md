@@ -8,11 +8,11 @@ TED Üniversitesi Bilgisayar Mühendisliği mezunuyum ve **Uygulamalı Veri Anal
 
 Yazılımı fiziksel dünyayla buluşturan sistemler geliştirmekten; sensör verilerini işlemekten, donanım ve yazılım bileşenlerini entegre etmekten ve gerçek dünya problemlerine otomatik ve veriye dayalı çözümler üretmekten keyif alıyorum.
 
-🎓 **Bilgisayar Mühendisliği** — TED Üniversitesi
-📊 **Yan Dal:** Uygulamalı Veri Analizi
-🏭 **Deneyim:** Endüstriyel Otomasyon & Yazılım Geliştirme
-🤖 **Odak:** Gömülü, Otonom Sistemler & Otomasyon
-✈️ **Öne Çıkan Proje:** TUSAŞ LIFT UP — CODENGE
+### Bilgisayar Mühendisi | Embedded Systems • Automation • AI
+**TED Üniversitesi** · **Uygulamalı Veri Analizi Yan Dalı**
+
+⚙️ Endüstriyel Otomasyon · 🤖 Otonom Sistemler · 📊 Veri & AI  
+✈️ Öne Çıkan Proje: **CODENGE — TUSAŞ LIFT UP Top 10**
 ---
 ## 👨‍💻 Hakkımda
 
