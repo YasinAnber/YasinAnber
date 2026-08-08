@@ -36,7 +36,7 @@ Kariyerimde; **endüstriyel otomasyon, gömülü sistemler, veri analizi, yapay 
 | **⚙️ Endüstriyel Otomasyon** | **PLC & Kontrol:** PLC tabanlı sistemler, HIPASE <br> **Sistemler:** Otomasyon altyapıları, kontrol süreçleri, donanım-yazılım entegrasyonu |
 | **🔌 Gömülü Sistemler & Donanım** | **Platformlar:** Arduino, STM32, ARM LPC2148 <br> **Donanım:** Sensör entegrasyonu, elektronik devreler, mikrodenetleyici tabanlı sistemler |
 | **🧰 Araçlar & Teknolojiler** | `MATLAB` · `Linux / Ubuntu` · `Wireshark` · `Nmap` · `VMware` · `Vercel` |
-| **🌍 Yabancı Diller** | 🇬🇧 **İngilizce:** C1 | 🇩🇪 **Almanca:** A1.1 |
+| **🌍 Yabancı Diller** | 🇬🇧 **İngilizce:** C1 | 🇩🇪 **Almanca:** A2.1 |
 
 ---
 
